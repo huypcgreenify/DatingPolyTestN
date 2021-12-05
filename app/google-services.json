@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443394120017",
+    "project_id": "chat-app-83c89",
+    "storage_bucket": "chat-app-83c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443394120017:android:2fd30bb8761f76b86f9b70",
+        "android_client_info": {
+          "package_name": "com.example.datingpolytestn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443394120017-t7duos77qri6ubgdir4mehb3mlorhr0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbMtVX_RBMt4lZlQ9HdAYwvcyKo8fWSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443394120017-t7duos77qri6ubgdir4mehb3mlorhr0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
